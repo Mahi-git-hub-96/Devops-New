@@ -1,1 +1,2 @@
 First line in git new repository
+git is scm tool
