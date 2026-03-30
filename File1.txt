@@ -9,6 +9,4 @@ This is task1
 This change is done by Hari
 This is the change is done by the feature branch
 This is the chnage created by the feature5 branch
-this is c1 commit
-this is c2 commit
-This is task1
+this is new feature branch code of feature/wa
