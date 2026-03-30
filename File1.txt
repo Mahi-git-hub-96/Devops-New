@@ -1,11 +1,14 @@
 First line in git new repository
 git is scm tool
 git is advanced tool
+This is task1
 In git we can create the branch
 This work done on feature2 branch
 created a new branch in git feature2
+This is task1
 This change is done by Hari
 This is the change is done by the feature branch
 This is the chnage created by the feature5 branch
 this is c1 commit
 this is c2 commit
+This is task1
