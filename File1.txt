@@ -13,3 +13,4 @@ this is new feature branch code of feature/wa
 This is new Jenkins file in the pipeline build
 this is jenkins git hub intergration of webhook
 webhook is a build trigger tool
+This is a maven clean package
